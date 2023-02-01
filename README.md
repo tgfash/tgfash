@@ -1,10 +1,9 @@
 ### Hi there 👋, Fash
-#### Front-End Developer
-![Front-End Developer](https://www.dexerto.com/wp-content/uploads/thumbnails/_thumbnailLarge/Dota2-shanghai-skyline-wykrhm.jpg)
+#### Back-End Developer
 
 My full name is Nguyen Ngoc Tan , I come from Viet Nam and I will be a professional web developer one day or maybe a professional esports player LUL :) 
 
-Skills: HTML / CSS / JS / REACT/ PHOTOSHOP
+Skills: HTML / CSS / JS / PHP / PHOTOSHOP
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tgfash)](https://github.com/anuraghazra/github-readme-stats)
 
